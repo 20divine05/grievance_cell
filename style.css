@@ -1,0 +1,41 @@
+body{
+    margin: 0px 0px;
+}
+.ld{
+ height: 60px;
+ width: 1536px;
+ background-color: aqua;
+ padding: 0px 0px;
+ display: flex;
+ justify-content: right;
+}
+.cen{
+    height: 600px;
+    width: 1536px;
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.side{
+    height: 60px;
+    width: 536px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+
+}
+#zz{
+    margin:0px 50px 0px 20px ;
+    text-decoration: none;
+    padding: 10px;
+    background-color: rgb(115, 115, 127);
+    color: aquamarine;
+}
+#zz:hover{
+    color: brown;
+    background-color: black;
+    border-radius: 5px;
+    height: 20px;
+    width: 35px;
+}
